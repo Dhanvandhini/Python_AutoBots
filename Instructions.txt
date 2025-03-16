@@ -1,0 +1,16 @@
+Python Automation Project:
+
+Go into the Folder path -> Desktop/PRJ/PY/Automation/
+
+__{{ Not needed if already menv folder is present and packages are installed }}__
+python -m venv menv
+myenv\Scripts\activate
+pip install pandas python-dotenv
+________________________________
+
+Running scripts [ (menv) will show as first words in the command line indicating activated env] :
+
+python program_name.py
+
+Ctrl+c to exit during execution
+ygc-jzot-zry
